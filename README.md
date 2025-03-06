@@ -23,7 +23,7 @@ own cpp file, making it easy to navigate.
 	```
 2. Open the project in your IDE of choice (Clion, Visual Studio, etc.)
 
-3. Explore the solutions in adventCode2024/Day(x)/respectivePart.cpp
+3. Explore the solutions in adventCode2024/
 
 ## Project Structure
 
